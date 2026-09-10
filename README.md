@@ -2,6 +2,8 @@
 
 DEMO VIDEO: https://youtu.be/bGMgc3__Tus
 
+Disclaimer: this is integrated as a part of a much bigger codebase for my CS107E class, which I am not allowed to upload. So this is just the file that I wrote for this project :) 
+
 ## Sangeet Satpathy, Winter 2026
 
 ### Motivation
