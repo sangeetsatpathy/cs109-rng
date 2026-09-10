@@ -1,5 +1,7 @@
 # Generating Random Numbers
 
+DEMO VIDEO: https://youtu.be/bGMgc3__Tus
+
 ## Sangeet Satpathy, Winter 2026
 
 ### Motivation
